@@ -1,0 +1,7 @@
+#RUNNING
+
+```bash
+
+make && ./opcode
+
+```
